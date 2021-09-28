@@ -12,9 +12,6 @@ body{
 .dropdown{
     display: none;
 }
-.container div{
-
-}
 img{
   width: 100%;
 }
@@ -39,10 +36,6 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: stretch;
-}
-.photos div{
-
-
 }
 .blue{
     color: #000F55;
